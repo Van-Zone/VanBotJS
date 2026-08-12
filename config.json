@@ -1,0 +1,16 @@
+{
+  "bots": [
+    {
+      "botId": "Van-None",
+      "type": "onebot11",
+      "mode": "ws_reverse",
+      "port": 8080,
+      "path": "/onebot/v11/ws",
+      "token": ""
+    }
+  ],
+  "plugins": {
+    "keyword": true
+  },
+  "hotReload": true
+}
